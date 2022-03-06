@@ -1,0 +1,48 @@
+
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Falling In Love (feat. Lucky Daye),Overgrown,Joyce Wrice,2021-03-19,179115,31,0.754,0.0539,0.754,0.743,6.99e-05,0.141,-5.017,0.0804,157.828,4
+1,Night Owl,Summer 08,Metronomy,2016-07-01,268840,50,0.699,0.239,0.699,0.68,0.131,0.048,-9.791,0.0558,135.026,4
+2,Intimidated (feat. H.E.R.),Intimidated,KAYTRANADA,2021-11-19,207840,75,0.738,0.0167,0.738,0.75,0.00976,0.174,-3.654,0.219,112.009,4
+3,Pursuit Of Happiness (Nightmare),Man On The Moon: The End Of Day (Deluxe),Kid Cudi,2009-01-01,295293,73,0.63,0.484,0.63,0.605,9.29e-05,0.298,-8.951,0.0414,115.277,4
+4,DEAD RIGHT NOW,MONTERO,Lil Nas X,2021-09-17,221203,71,0.685,0.101,0.685,0.717,1.87e-05,0.266,-6.456,0.0411,127.963,4
+5,Death Pacito,ALG0,Triorität,2020-11-06,454813,42,0.449,0.0491,0.449,0.606,0.538,0.0848,-8.902,0.0356,93.973,4
+6,Breathe Deeper,The Slow Rush,Tame Impala,2020-02-14,372866,70,0.664,0.0245,0.664,0.848,0.000127,0.172,-4.51,0.0322,104.998,4
+7,Ginseng Strip 2002,Lavender,Yung Lean,2013-08-16,153999,90,0.601,0.0848,0.601,0.712,0.0,0.479,-9.433,0.0431,114.998,4
+8,La vita nuova - Logic1000 Remix,La vita nuova (Remixes),Christine and the Queens,2020-08-28,225626,34,0.787,0.013,0.787,0.518,0.864,0.108,-10.201,0.0478,120.982,4
+9,ATLiens,ATLiens,Outkast,1996-08-27,230693,71,0.918,0.0296,0.918,0.734,8.01e-06,0.191,-2.832,0.269,97.044,4
+10,Thinkin' Bout You,Love on Wax,Hush Hush,2019-12-25,359385,44,0.819,0.031,0.819,0.704,0.782,0.0527,-7.904,0.0758,125.011,4
+11,Fantasy,Daydream,Mariah Carey,1995-09-26,243493,77,0.669,0.139,0.669,0.727,0.0,0.123,-7.588,0.0353,102.322,4
+12,Oceanic Feeling,Solar Power,Lorde,2021-08-20,399583,24,0.388,0.855,0.388,0.34,0.000524,0.119,-14.093,0.0521,171.946,4
+13,Headshots (4r Da Locals),The House Is Burning,Isaiah Rashad,2021-07-30,193208,71,0.894,0.0308,0.894,0.615,0.00921,0.309,-6.269,0.0826,120.0,4
+14,RIP Young,The House Is Burning,Isaiah Rashad,2021-07-30,158050,71,0.971,0.0476,0.971,0.677,2.22e-05,0.112,-6.895,0.092,120.027,4
+15,Wat U Sed (feat. Iamdoechii & Kal Banx),The House Is Burning,Isaiah Rashad,2021-07-30,176682,65,0.838,0.101,0.838,0.634,0.13,0.143,-7.018,0.258,163.0,4
+16,Feel No Ways,Views,Drake,2016-05-06,240653,76,0.582,0.0312,0.582,0.677,6.6e-06,0.122,-7.081,0.172,193.818,4
+17,Turn Around - Radio Edit,Turn Around - Single,Phats & Small,1999-01-01,212146,63,0.797,0.0135,0.797,0.752,0.00496,0.264,-7.343,0.128,131.932,4
+18,Beige,Beige,Terrace Martin,2019-12-20,197173,67,0.773,0.297,0.773,0.579,0.00954,0.0607,-10.109,0.0862,170.04,4
+19,Looking Out for You,Looking Out for You,Joy Again,2015-11-06,179499,2,0.682,0.0884,0.682,0.9,0.063,0.0685,-5.028,0.0874,100.721,4
+20,DJ Logic Please Forgive Me,Logic1000,Logic1000,2019-12-06,293858,39,0.829,0.0136,0.829,0.928,0.0201,0.317,-8.641,0.0833,123.999,4
+21,I Want Your Love - 2018 Remaster,The Chic Organization 1977-1979 (2018 Remaster),CHIC,2018-11-23,413586,52,0.699,0.0185,0.699,0.604,0.073,0.0868,-13.404,0.0359,114.226,4
+22,Give Me the Night,The George Benson Collection,George Benson,1981,222626,67,0.85,0.314,0.85,0.466,0.0234,0.129,-15.673,0.0555,109.936,4
+23,Leave The Door Open,Leave The Door Open,Bruno Mars,2021-03-05,242096,87,0.586,0.182,0.586,0.616,0.0,0.0927,-7.964,0.0324,148.088,4
+24,Back To Life,Keep On Movin',Soul II Soul,1989-01-01,228266,67,0.817,0.0515,0.817,0.484,0.000213,0.0391,-11.659,0.143,100.978,4
+25,The Look,The Look,Metronomy,2011-04-04,277653,30,0.638,0.623,0.638,0.535,0.0391,0.0837,-7.792,0.0415,84.947,4
+26,Super Bounce,SuperGood,Duckwrth,2020-08-21,218017,66,0.772,0.239,0.772,0.61,0.000538,0.124,-6.175,0.206,74.519,4
+27,Lost Man (feat. Octavian),EPHEMERA,Jim-E Stack,2020-10-30,141916,36,0.867,0.0784,0.867,0.479,0.0408,0.0806,-4.503,0.232,88.955,4
+28,Juicy - 2005 Remaster,Ready to Die (The Remaster),The Notorious B.I.G.,1994-09-13,302760,80,0.889,0.47,0.889,0.818,0.0,0.179,-4.639,0.253,96.063,4
+29,Feel A Way (feat. Kanye West & Brent Faiyaz),So Help Me God!,2 Chainz,2020-11-13,213528,59,0.859,0.358,0.859,0.727,0.000752,0.332,-5.598,0.073,149.932,4
+30,Dumb Love,Dumb Love,NEIL FRANCES,2017-04-28,282728,51,0.736,0.211,0.736,0.872,0.0606,0.287,-5.03,0.0558,118.014,4
+31,Sonshine,BO Y,Deaton Chris Anthony,2019-11-20,169117,37,0.425,0.443,0.425,0.55,0.0264,0.0766,-10.7,0.0704,80.923,4
+32,STAINS,SATURATION III,BROCKHAMPTON,2017-12-15,179150,53,0.643,0.474,0.643,0.662,0.0,0.237,-7.226,0.0993,113.022,4
+33,The Difference - Extended,The Difference (Extended),Flume,2020-04-24,237154,53,0.657,0.019,0.657,0.906,0.039,0.278,-2.435,0.0654,160.024,4
+34,Music Sounds Better with You,Music Sounds Better with You,NEIL FRANCES,2017-07-21,198305,62,0.935,0.275,0.935,0.526,0.238,0.0673,-8.256,0.0645,118.009,4
+35,Work,ANTI (Deluxe),Rihanna,2016-01-28,219320,0,0.725,0.0752,0.725,0.534,0.0,0.0919,-6.238,0.0946,91.974,4
+36,21 Questions,Get Rich Or Die Tryin',50 Cent,2003-02-06,224440,76,0.646,0.349,0.646,0.813,9.37e-05,0.0427,-3.846,0.299,92.729,4
+37,Love You Bad (feat. Malaya & Phoelix),Dinner Party: Dessert,Terrace Martin,2020-10-09,135160,37,0.394,0.0551,0.394,0.641,0.000171,0.254,-6.767,0.378,176.462,4
+38,Everywhere - 2017 Remaster,Tango In the Night (Deluxe Edition),Fleetwood Mac,1987-04-13,226653,80,0.73,0.258,0.73,0.487,0.01,0.0852,-10.991,0.0303,114.965,4
+39,Starry Night - Edit,Starry Night,Peggy Gou,2019-03-22,233978,65,0.747,0.00915,0.747,0.865,0.486,0.0425,-8.094,0.0351,122.994,4
+40,Ayonha,Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007),Various Artists,2017-12-01,221500,44,0.718,0.54,0.718,0.73,0.0137,0.147,-7.405,0.0292,122.904,4
+41,19.10,3.15.20,Childish Gambino,2020-03-22,308546,60,0.715,0.012,0.715,0.597,0.00273,0.0925,-8.939,0.0749,114.98,4
+42,Suede Jaw,Billy's Home,808INK,2015,143925,55,0.934,0.0138,0.934,0.667,0.0091,0.447,-5.294,0.238,104.249,4
+43,It Takes Two,Profilin': The Hits,Various Artists,1990-01-01,301893,57,0.767,0.0143,0.767,0.776,0.0,0.326,-8.915,0.144,111.686,4
+44,New Lands,"Audio, Video, Disco.",Justice,2011-10-24,254493,54,0.451,0.0968,0.451,0.816,0.0131,0.113,-5.216,0.0759,126.941,4
+45,I Am In Love,Studio One Women,Various Artists,2005,211426,0,0.778,0.233,0.778,0.482,0.000466,0.258,-10.828,0.0311,91.702,4
